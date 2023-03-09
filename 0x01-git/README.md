@@ -1,1 +1,1 @@
-My second readme file
+Updates the script
